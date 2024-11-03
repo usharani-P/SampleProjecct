@@ -26,6 +26,10 @@ public class CreatingMethods {
 		
 	}
 	
+	protected static void method8(){
+		
+	}
+	
 	static void method7() {
 		
 	}
